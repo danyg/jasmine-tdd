@@ -1,0 +1,17 @@
+{
+	"compilerOptions": {
+		"target": "es2015",
+		"checkJs": true,
+		"module": "amd",
+	},
+	"exclude": [
+		"node_modules",
+		"**/node_modules/*"
+	],
+	"lib": [
+		"jasmine"
+	],
+	"types": [
+		"jasmine"
+	]
+}
